@@ -76,3 +76,6 @@ footer{
     color: #FFFFFF;
     font-weight: 100;
 }
+footer div{
+    width: 64px;
+}
